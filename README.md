@@ -11,7 +11,7 @@ The startup 202020V was created by myself to unite and expand all developers who
 - Python 3
 - Pandas
 - Matplotlib
-- Tableau
+- Tableau : https://public.tableau.com/profile/orion.ford#!/vizhome/202020VOnlineTransactions/202020VOnlineTransactionsReport
 - Jupyter Notebook
 
 
