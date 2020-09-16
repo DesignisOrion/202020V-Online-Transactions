@@ -13,7 +13,9 @@ The startup 202020V was created by myself to unite and expand all developers who
 - Python 3
 - Pandas
 - Matplotlib
+- Tableau
 - Jupyter Notebook
+
 
 
 # Author: 
